@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Initial content
-More content for main
-Even more content for main
+The final content that resolves the conflict.
 
