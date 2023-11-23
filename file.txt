@@ -1,2 +1,3 @@
 The final content that resolves the conflict.
 
+Finalizing content on main
