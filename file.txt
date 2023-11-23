@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 Initial content
 More content for main
 Even more content for main
+
